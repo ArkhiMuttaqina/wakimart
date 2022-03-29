@@ -1,4 +1,4 @@
-APP_NAME=mcerp
+APP_NAME=wakimart
 APP_ENV=local
 APP_KEY=base64:gTfWfyH3psOCi7wzWRHyHdAk+o/F9tT5bO89NrKrOdU=
 APP_DEBUG=true

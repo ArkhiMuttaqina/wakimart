@@ -38,7 +38,7 @@
                                     style="width: 50%;">
                             </div>
                         </div>
-                        <p class="mb-4">Selamat datang <b>diwAKIERP</b>, Aplikasi ini dibuat oleh <b>Arkhi
+                        <p class="mb-4">Selamat datang <b>di wakiERP</b>, Aplikasi ini dibuat oleh <b>Arkhi
                                 Muttaqina</b> untuk memenuhi penugasan
                             dari WakiMart. </p>
                         <form action="{{ url('') }}/postlogin" enctype="multipart/form-data" method="post">
